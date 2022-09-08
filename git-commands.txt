@@ -1,0 +1,20 @@
+1. git init    (wil be ran just one time in a folder)
+ One time command
+      i-  git config --global user.name "Eng_sajjad"
+     ii-  git config --global user.email "abcd.com"
+
+2. git status
+
+3. git add filename.ext        To upload on gits stage
+
+4. git rm --cached filename.ext to remove from stage
+
+5. git add -A              (adding all files with one command)
+
+6. git commit -m "initial commit"     (-m ka matlab msg ha R 
+                                      ("initial commit" mean start the project frome here))
+
+7. https://github.com/EngSajjad/PIAIC-Online-Class.git   
+                                            
+                                (for connecting local system to remote github)
+8. 
