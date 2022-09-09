@@ -17,4 +17,5 @@
 7. git remote add origin https://github.com/EngSajjad/PIAIC-Online-Class.git   
                                             
                                 (for connecting local system to remote github)
-8. 
+
+8.  git push -u origin master 
