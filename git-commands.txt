@@ -14,7 +14,7 @@
 6. git commit -m "initial commit"     (-m ka matlab msg ha R 
                                       ("initial commit" mean start the project frome here))
 
-7. https://github.com/EngSajjad/PIAIC-Online-Class.git   
+7. git remote add origin https://github.com/EngSajjad/PIAIC-Online-Class.git   
                                             
                                 (for connecting local system to remote github)
 8. 
